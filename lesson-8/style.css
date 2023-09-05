@@ -1,0 +1,138 @@
+body {
+    color: #333;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+   font-style: italic;
+}
+
+thead {
+    text-transform: uppercase;
+    background-color: antiquewhite;
+}
+
+.link-main-1 {
+    text-decoration: underline;
+    color: rgb(94, 199, 147);
+    /* вибачте змінив колір на свій смак . */
+}
+
+.link-main-1:visited {
+    color: rgb(139, 228, 228);
+}
+
+.link-main-1:hover {
+    text-decoration: none;
+}
+
+.link-main-2 {
+    text-decoration: underline;
+    color: rgb(85, 124, 209);
+    /* вибачте змінив колір на свій смак . */
+}
+
+.link-main-2:visited {
+    color: rgb(72, 170, 93);
+}
+
+.link-main-2:hover {
+    text-decoration: none;
+}
+
+.link-main-3 {
+    text-decoration: underline;
+    color: rgb(158, 141, 63);
+    /* вибачте змінив колір на свій смак . */
+}
+
+.link-main-3:visited {
+    color: rgb(208, 221, 137);
+}
+
+.link-main-3:hover {
+    text-decoration: none;
+}
+
+.link-main-4 {
+    text-decoration: underline;
+    color: rgb(131, 150, 109);
+    /* вибачте змінив колір на свій смак . */
+}
+
+.link-main-4:visited {
+    color: rgb(202, 114, 114);
+}
+
+.link-main-4:hover {
+    text-decoration: none;
+}
+
+.link-main-5 {
+    text-decoration: underline;
+    color: rgb(122, 90, 134);
+    /* вибачте змінив колір на свій смак . */
+}
+
+.link-main-5:visited {
+    color: rgb(130, 184, 228);
+}
+
+.link-main-5:hover {
+    text-decoration: none;
+}
+
+.position-weight-main {
+    font-weight: bolder;
+}
+
+ol {
+    list-style-type: square;
+}
+
+.h1-main {
+    border-bottom: 3px solid rgb(75, 221, 99);
+}
+
+.h2-main {
+    border-bottom: 3px solid rgb(140, 194, 89);
+}
+
+.h3-main {
+    border-bottom: 3px solid rgb(48, 98, 156);
+}
+
+.skills-main {
+    border-bottom: 3px solid rgb(138, 82, 201);
+}
+
+.picture-1 {
+    border: 3px solid rgb(77, 170, 187);
+    padding: 5px;
+}
+
+table {
+    background-color: cornflowerblue;
+}
+
+.tbody-1 {
+    background-color: cadetblue;
+}
+
+.tbody-2 {
+    background-color: rgb(66, 184, 192);
+}
+
+.tbody-3 {
+    background-color: darkgrey;
+}
+
+.tbody-4 {
+    background-color: darkorange;
+}
+
+.tbody-5 {
+    background-color: darkgoldenrod;
+}
+
+
